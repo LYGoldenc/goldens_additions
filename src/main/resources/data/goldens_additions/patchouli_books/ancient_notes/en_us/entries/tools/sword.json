@@ -1,0 +1,17 @@
+{
+  "name": "Void Sword",
+  "icon": "goldens_additions:void_sword",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void sword is a powerful sword.It is much better than the netherite sword."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_sword",
+      "title": "Void Sword",
+      "text": " Using void sword ,if your heath is not full you can $(9)suck blood$() from you attack to heal yourself,and when you damage a mob ,it will get a $(3)weakness$() effect . And you can fix all void tools and armors by void mixture."
+    }
+  ]
+}

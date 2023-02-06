@@ -1,0 +1,17 @@
+{
+  "name": "ChannelingEX",
+  "icon": "minecraft:enchanted_book",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Very powerfully enchanment.You can get it from killing elder guard by chance."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:enchanted_book{Enchantments:{id:\"channelingex\",lvl:1}}",
+      "title": "ChannelingEX",
+      "text": "  ChannelingEX allows you to detonate lightning $(3)under visiable sky whatever the weather likes$() , The principle of channeling and channelingex is different , It is said that ChannelingEx uses the power of Zeus while channeling useing that of weather.$(br)  So that two enchanments cannot in one trident , Additionally Riptide cannot combine with channelingex too."
+    }
+  ]
+}

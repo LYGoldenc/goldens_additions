@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:apple"
+    },
+    "Q": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "QQQ",
+    "QIQ",
+    "QQQ"
+  ],
+  "result": {
+    "item": "goldens_additions:iron_apple"
+  }
+}

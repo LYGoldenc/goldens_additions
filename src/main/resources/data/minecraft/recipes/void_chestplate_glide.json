@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:elytra"
+  },
+  "base": {
+    "item": "goldens_additions:void_chestplate"
+  },
+  "result": {
+    "item": "goldens_additions:void_chestplate_glide"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "充能火药",
+  "icon": "goldens_additions:charged_gun_powder",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   一团只能从$(9)闪电苦力怕$()身上取得的奇怪的火药。使用它的时候，会召来一道闪电。你几乎不能躲开这道闪电，哪怕藏在地下。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "充能火药",
+      "item": "goldens_additions:charged_gun_powder",
+      "text": "   在雷雨天找到一只被闪电击中的苦力怕是不容易的,就算你拥有能够引雷的魔咒,效率依旧很低。$(br)  我听说在$(3)深海的王宫里$()。那里的王私藏着$(l:goldens_additions:misc/channelingex)可以在任何天气召来雷电的强力魔咒$()。如果能的到它，你唯一需要做的事情就是去寻找苦力怕了。"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:elder_guardian",
+      "scale": 0.4,
+      "offset": 0.0,
+      "rotate": true,
+      "default_rotation": -45,
+      "title": "King of Deep",
+      "text": "  传说中深海之王的画像。"
+    }
+
+  ]
+}

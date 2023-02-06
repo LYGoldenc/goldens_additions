@@ -1,0 +1,24 @@
+{
+  "name": "Diary 1/6 846",
+  "sortnum": 2,
+  "icon": "goldens_additions:still_gem",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  $(4)My brain is going bad$() . I often have my pet dog barking at me because I can't control my language . But none of this matters.I found a $(bl)rare gem$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Still Gem",
+      "item": "goldens_additions:still_gem",
+      "text": "  I think the $(3)piglin$() is also very friendly at some times . Look ! What a $(l:goldens_additions:important_items/still_gem)flawless gem $(). I only used 5 gold ingots to get this , piglin has a brain , but it is very illiterate."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Diary 1/6 846",
+      "text": "  This gem seems to $(2)have the power to create heaven and earth$() , I carry this with me at all times.When I sleep , I can always dream of a vast world,I think this is a sign... $(br)  I'm so sorry that I think I'm talking nonsense again , Since I found that power , my spirit has begun to change , $(4)It's time for me to see a psychologist$()."
+    }
+
+  ]
+}

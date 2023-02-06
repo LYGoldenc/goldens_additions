@@ -1,0 +1,18 @@
+{
+  "name": "虚空混合物",
+  "icon": "goldens_additions:refining_void_mixture",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "虚空混合物",
+      "item": "goldens_additions:refining_void_mixture",
+      "text": "  我给它起名做虚空混合物。那股力量的升级版。"
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "recipe": "goldens_additions:refining_void_mixture",
+      "text": "  使用$(l:goldens_additions:important_items/polymerization_machine)聚合装置$()来制作。你需要用一些不同的珍贵材料，不用担心,当立掌控强大力量的时候，你就会忘记这些不爽。"
+    }
+  ]
+}

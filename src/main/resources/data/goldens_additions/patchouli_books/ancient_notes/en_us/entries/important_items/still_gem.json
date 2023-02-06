@@ -1,0 +1,18 @@
+{
+  "name": "Still Gem",
+  "icon": "goldens_additions:still_gem",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  If you're a good friend of $(3)piglin$() , she may trade these precious gems to you as commodities."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:still_gem",
+      "title": "Still Gem",
+      "text": "  Still gem has a wonderful power , not only used to make $(l:goldens_additions:important_items/refining_void_mixture)void mixture$() but also can use for $(l:goldens_additions:misc/portal_frame)opening up a space$() . You can $(6)live in that space$(). Safe and comfortable."
+    }
+
+  ]
+}

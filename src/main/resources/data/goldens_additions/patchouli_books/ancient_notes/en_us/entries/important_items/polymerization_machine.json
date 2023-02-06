@@ -1,0 +1,41 @@
+{
+  "name": "Polymerization Machine",
+  "icon": "goldens_additions:polymerization_machine",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": " A machine for polymerizing , it has strong capabilities that can make special items."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:polymerization_machine",
+      "title": "Polymerization Machine",
+      "text": " You can make this machine according to this simple recipe."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Polymerization Machine",
+      "item": "goldens_additions:polymerization_machine",
+      "text": " Use this machine, you can easily make $(l:goldens_additions:important_items/refining_void_mixture)void mixture$() , additionally you can make some known items by another way. I will list them."
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "title": "Polymerization Machine",
+      "recipe": "goldens_additions:golden_apple_p",
+      "text": "  Another way to crafting golden apples."
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "title": "Polymerization Machine",
+      "recipe": "goldens_additions:nether_star_p",
+      "text": "  This machine make it possible to crafting a nether star"
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "title": "Polymerization Machine",
+      "recipe": "goldens_additions:netherite_ingot_p",
+      "text": "  Use less netherite scrap to make a netherite ingot."
+    }
+  ]
+}

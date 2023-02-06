@@ -1,0 +1,18 @@
+{
+  "name": "日记 846年9月14日",
+  "sortnum": 3,
+  "icon": "goldens_additions:sculk_pearl",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    事情开始变得有些糟糕了。在采矿的时候，我竟然遇到了$(4)传说中的生物$() : $(9)监守者$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:sculk_pearl",
+      "title": "幽匿珍珠",
+      "text": "    还好, 凭借着智慧，我送它上西天了, 我在他随身带的袋子里找到了一颗 $(l:goldens_additions:important_items/sculk_pearl)光滑的珍珠$()我不知道到他有什么用。去他的吧,现在我该做的事情是睡一个好觉。"
+    }
+  ]
+}

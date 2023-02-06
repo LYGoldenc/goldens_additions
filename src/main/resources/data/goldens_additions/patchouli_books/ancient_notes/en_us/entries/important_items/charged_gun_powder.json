@@ -1,0 +1,28 @@
+{
+  "name": "Chared Gunpowder",
+  "icon": "goldens_additions:charged_gun_powder",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  A strange gunpowder must get from $(9)creeper who strucked on lightning$().When using it, you can summon a lightning . You can never hide from him , even under earth."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Charged Gunpowder",
+      "item": "goldens_additions:charged_gun_powder",
+      "text": "  It is not easy to find a creeper hit by lightning in a thunderstorm , then kill it , Even if you use channeling enchantment , the efficiency is still not high.$(br)  I heard that in $(3)the palace of the deep sea$().The king there hides $(l:goldens_additions:misc/channelingex)a powerful enchantment that can lead thunder in sunny days$().If you can get it , you have only one thing to do is  finding creepers"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:elder_guardian",
+      "scale": 0.6,
+      "offset": 0.0,
+      "rotate": true,
+      "default_rotation": -45,
+      "title": "King of Deep",
+      "text": "It is said that this is the portrait of the king."
+    }
+
+  ]
+}

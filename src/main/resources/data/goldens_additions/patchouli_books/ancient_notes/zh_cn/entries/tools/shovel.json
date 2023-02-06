@@ -1,0 +1,17 @@
+{
+  "name": "末世掘墓者",
+  "icon": "goldens_additions:void_shovel",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世掘墓者让你的挖掘事业如虎添翼。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_shovel",
+      "title": "末世掘墓者",
+      "text": "    他的挖掘效率相比下界合金材质的有了很大的提升并且你可以用虚空混合物来修复任何其材质的工具与盔甲。"
+    }
+  ]
+}

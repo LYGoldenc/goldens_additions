@@ -1,0 +1,38 @@
+{
+  "name": "聚合装置",
+  "icon": "goldens_additions:polymerization_machine",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   一台用来聚合的机器,他有着制作特殊物品的强大能力。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:polymerization_machine",
+      "title": "聚合装置",
+      "text": "    你可以在$(6)工作台$()上制作这台机器。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "聚合装置",
+      "item": "goldens_additions:polymerization_machine",
+      "text": "    用这台机器你可以很简单的制作出$(l:goldens_additions:important_items/refining_void_mixture)虚空混合物$(),另外，你也可以用另一种配方制作一些已知的东西，我会在下面把他列出来。"
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "recipe": "goldens_additions:golden_apple_p",
+      "text": "     制作附魔金苹果的另一种方式。"
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "recipe": "goldens_additions:nether_star_p",
+      "text": "     这台机器让制作下界之星成为可能。"
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "recipe": "goldens_additions:netherite_ingot_p",
+      "text": "     用更少的下界合金碎片来制造下界合金。"
+    }
+  ]
+}

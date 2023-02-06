@@ -1,0 +1,49 @@
+{
+  "display": {
+    "icon": {
+      "item": "goldens_additions:super_lollipop"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.root.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "goldens_additions:textures/gui/advancements/backgrounds/gold_block1.png"
+  },
+  "criteria": {
+    "super_lollipop": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:super_lollipop"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "iron_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:iron_apple"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "super_lollipop", "iron_apple"
+    ]
+  ]
+}

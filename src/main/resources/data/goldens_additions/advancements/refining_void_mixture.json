@@ -1,0 +1,37 @@
+{
+  "parent": "goldens_additions:unidentified_substance",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:refining_void_mixture"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.refining_void_mixture.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.refining_void_mixture.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "refining_void_mixture": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:refining_void_mixture"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "refining_void_mixture"
+    ]
+  ]
+}

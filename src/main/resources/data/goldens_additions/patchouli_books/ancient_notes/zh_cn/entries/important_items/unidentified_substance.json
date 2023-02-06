@@ -1,0 +1,24 @@
+{
+  "name": "不明物质",
+  "icon": "goldens_additions:unidentified_substance",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   我无法给它命名。因为我根本不敢直视它。它仿佛下一秒就要将我吞噬。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:unidentified_substance",
+      "title": "不明物质",
+      "text": "    该物质是通过分离$(l:goldens_additions:important_items/eroded_ender_pear)被侵蚀的末影珍珠$()得到的。 $(br)  确保你把被侵蚀的末影珍珠放在身上。然后使用$(l:goldens_additions:important_items/charged_gun_powder)充能火药$()。 你就有极大可能分离它们,并且又很小的几率把末影珍珠也完整的分离出来。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["goldens_additions:textures/gui/patchouli/un.png"],
+      "title": "构想图",
+      "border":true
+    }
+
+  ]
+}

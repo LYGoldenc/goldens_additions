@@ -1,0 +1,23 @@
+{
+  "name": "Bamboo Coal",
+  "icon": "goldens_additions:bamboo_coal",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:bamboo_coal",
+      "text": "  Bamboo often useless because of its small size . Why not burn him to coal.The burning time of ordinary bamboo coal is too short.then you can tie them in a bundle.Similarly, you can also bundle bamboo into a bundle for burning."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:bamboo_bundle",
+      "title": "Bamboo Bundle"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecraft:bamboo_coal",
+      "recipe2": "minecraft:bamboo_coal_bundle",
+      "title": "Bamboo Coal"
+    }
+  ]
+}

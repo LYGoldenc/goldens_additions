@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "Q": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  "pattern": [
+    " QQ",
+    " WQ",
+    "I  "
+  ],
+  "result": {
+    "item": "goldens_additions:super_lollipop"
+  }
+}

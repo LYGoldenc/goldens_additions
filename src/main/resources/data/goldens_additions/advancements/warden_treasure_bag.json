@@ -1,0 +1,53 @@
+{
+  "parent": "goldens_additions:root",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:warden_treasure_bag"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.warden_treasure_bag.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.warden_treasure_bag.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "warden_treasure_bag": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:warden_treasure_bag"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sculk_pearl": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:sculk_pearl"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+
+  "requirements": [
+    [
+      "warden_treasure_bag"
+    ],
+    [
+      "sculk_pearl"
+    ]
+  ]
+}

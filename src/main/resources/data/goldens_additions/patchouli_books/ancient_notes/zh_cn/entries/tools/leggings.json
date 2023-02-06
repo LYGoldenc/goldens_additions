@@ -1,0 +1,17 @@
+{
+  "name": "末世腿铠",
+  "icon": "goldens_additions:void_leggings",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世腿铠让你成为跳高冠军。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_leggings",
+      "title": "末世腿铠",
+      "text": "    当你装备末世腿铠的时候，你将会获得$(9)跳跃提升II$()的效果。你可以用虚空混合物来修复任何其材质的工具与盔甲，所有的虚空混合物材质盔甲，都不会影响与猪灵的结交。"
+    }
+  ]
+}

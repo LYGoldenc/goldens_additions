@@ -1,0 +1,24 @@
+{
+  "name": "食物",
+  "icon": "goldens_additions:super_lollipop",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   一些有趣的食物。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:super_lollipop",
+      "title": "超级棒棒糖",
+      "text": "   非常好吃的小零食,我在配方中加了一根金胡萝卜。当你每次食用的时候会获得一个短暂的$(9)夜视$()效果。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:iron_apple",
+      "title": "铁苹果",
+      "text": "   看起来就不怎么好吃,但他可以给予你很好的状态效果，虽然有时附带一些其他的，每次食用都会获得中等时间的$(9)生命体升$()和$(9)急迫$()效果,都非常有用。但也有很小几率陷入极其短暂的$(4)黑暗$()和$()反胃$()。怎么说它也是铁做的，闹肚子是正常的。"
+    }
+
+  ]
+}

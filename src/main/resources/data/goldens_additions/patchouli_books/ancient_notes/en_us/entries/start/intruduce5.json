@@ -1,0 +1,18 @@
+{
+  "name": "Diary 20/9 847",
+  "sortnum": 4,
+  "icon": "goldens_additions:unidentified_substance",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  One year has passed,How I wish it were all dreams . Now , I'm paralyzed in bed . You will never know how it feels to be $(9)struck by lightning$() . That force got my life back , I'm thanking $(l:goldens_additions:important_items/refining_void_mixture)that force$() for saving me"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:unidentified_substance",
+      "title": "Unidentified Substance",
+      "text": "  The strange thing is that $(l:goldens_additions:important_items/charged_gun_powder)the gunpowder$() I carried is missing , that strange gunpowder disappeared strangly . What's more strange is that $(l:goldens_additions:important_items/refining_void_mixture)the force$() was separated under the lightning strike . I have a crazy idea , $(3)I want to mix it with some other things$()..."
+    }
+  ]
+}

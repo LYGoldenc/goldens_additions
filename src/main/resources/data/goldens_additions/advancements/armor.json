@@ -1,0 +1,82 @@
+{
+  "parent": "goldens_additions:refining_void_mixture",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:void_chestplate"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.armor.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.armor.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:void_crown"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:void_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:void_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:void_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "helmet"
+    ],
+    [
+      "chestplate"
+    ],
+    [
+      "leggings"
+    ],
+    [
+      "boots"
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "goldens_additions:charged_gun_powder",
+    "minecraft:gunpowder"
+  ]
+}

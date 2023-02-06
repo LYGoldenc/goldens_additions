@@ -1,0 +1,17 @@
+{
+  "name": "Void Pickaxe",
+  "icon": "goldens_additions:void_pickaxe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void pickaxe can let your mining career go fast."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_pickaxe",
+      "title": "Void Pickaxe",
+      "text": "  When you have void pickaxe in your mainhand , You will get different levels of $(9)Haste$() according to your position Y . Its excavation speed is much faster than netherite pickaxe . And you can fix all void tools and armors by void mixture."
+    }
+  ]
+}

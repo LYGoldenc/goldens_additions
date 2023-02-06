@@ -1,0 +1,67 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.void_pickaxe",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "shafts",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 1, -1], "size": [1, 14, 1], "uv": [0, 0]},
+						{"origin": [-1, 0, -1], "size": [1, 1, 1], "inflate": 0.2, "uv": [0, 15]}
+					]
+				},
+				{
+					"name": "pickaxe",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 14, -2], "size": [3, 3, 3], "inflate": -0.4, "uv": [4, 0]},
+						{"origin": [-1, 16, -1], "size": [1, 1, 1], "uv": [8, 8]},
+						{"origin": [-1, 16.5, -1], "size": [1, 1, 1], "inflate": -0.2, "uv": [4, 8]},
+						{"origin": [-2, 10.1, -11.85], "size": [3, 1, 1], "pivot": [0, 0, 0], "rotation": [-45, 0, 0], "uv": [4, 6]}
+					]
+				},
+				{
+					"name": "head1",
+					"parent": "pickaxe",
+					"pivot": [0, 0, 1],
+					"rotation": [3, 0, 0],
+					"cubes": [
+						{"origin": [-1, 15, -2], "size": [1, 1, 1], "inflate": 0.3, "uv": [14, 14]},
+						{"origin": [-1, 15.25, -1.15], "size": [1, 1, 1], "inflate": 0.2, "pivot": [0, 0, 1], "rotation": [8, 0, 0], "uv": [14, 12]},
+						{"origin": [-1, 15.45, -0.15], "size": [1, 1, 1], "inflate": 0.1, "pivot": [0, 0, 1], "rotation": [16, 0, 0], "uv": [14, 10]},
+						{"origin": [-1, 15.45, 1.05], "size": [1, 1, 1], "inflate": 0, "pivot": [0, 0, 1], "rotation": [24, 0, 0], "uv": [14, 8]},
+						{"origin": [-1, 15.25, 2.45], "size": [1, 1, 1], "inflate": -0.1, "pivot": [0, 0, 1], "rotation": [32, 0, 0], "uv": [7, 14]},
+						{"origin": [-1, 14.85, 4.05], "size": [1, 1, 1], "inflate": -0.2, "pivot": [0, 0, 1], "rotation": [40, 0, 0], "uv": [14, 6]},
+						{"origin": [-1, 14.25, 5.75], "size": [1, 1, 1], "inflate": -0.3, "pivot": [0, 0, 1], "rotation": [48, 0, 0], "uv": [3, 14]},
+						{"origin": [-1, 13.45, 7.45], "size": [1, 1, 1], "inflate": -0.4, "pivot": [0, 0, 1], "rotation": [56, 0, 0], "uv": [11, 13]}
+					]
+				},
+				{
+					"name": "head2",
+					"parent": "pickaxe",
+					"pivot": [0, 0, -2],
+					"rotation": [-3, 0, 0],
+					"cubes": [
+						{"origin": [-1, 15, 0], "size": [1, 1, 1], "inflate": 0.3, "uv": [13, 0]},
+						{"origin": [-1, 15.25, -0.85], "size": [1, 1, 1], "inflate": 0.2, "pivot": [0, 0, -2], "rotation": [-8, 0, 0], "uv": [8, 12]},
+						{"origin": [-1, 15.45, -1.85], "size": [1, 1, 1], "inflate": 0.1, "pivot": [0, 0, -2], "rotation": [-16, 0, 0], "uv": [4, 12]},
+						{"origin": [-1, 15.45, -3.05], "size": [1, 1, 1], "inflate": 0, "pivot": [0, 0, -2], "rotation": [-24, 0, 0], "uv": [11, 11]},
+						{"origin": [-1, 15.25, -4.45], "size": [1, 1, 1], "inflate": -0.1, "pivot": [0, 0, -2], "rotation": [-32, 0, 0], "uv": [11, 9]},
+						{"origin": [-1, 14.85, -6.05], "size": [1, 1, 1], "inflate": -0.2, "pivot": [0, 0, -2], "rotation": [-40, 0, 0], "uv": [11, 7]},
+						{"origin": [-1, 14.25, -7.75], "size": [1, 1, 1], "inflate": -0.3, "pivot": [0, 0, -2], "rotation": [-48, 0, 0], "uv": [8, 10]},
+						{"origin": [-1, 13.45, -9.45], "size": [1, 1, 1], "inflate": -0.4, "pivot": [0, 0, -2], "rotation": [-56, 0, 0], "uv": [4, 10]}
+					]
+				}
+			]
+		}
+	]
+}

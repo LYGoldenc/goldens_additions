@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "goldens_additions:bamboo_bundle"
+  },
+  "result": "goldens_additions:bamboo_coal_bundle"
+
+}

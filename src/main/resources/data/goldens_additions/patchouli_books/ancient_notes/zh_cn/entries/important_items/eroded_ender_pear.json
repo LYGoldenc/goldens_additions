@@ -1,0 +1,20 @@
+{
+  "name": "被侵蚀的末影珍珠",
+  "icon": "goldens_additions:eroded_ender_pear",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "被侵蚀的末影珍珠",
+      "item": "goldens_additions:eroded_ender_pear",
+      "text": "  末影珍珠，但是被侵蚀了。拿在手里你就能感受到它强大的能量波动,但是$(4)永远不要尝试像普通末影珍珠一样使用它$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:void_ore",
+      "title": "虚空矿石",
+      "text": "  只能很稀少的在末地发现,它一般被$(9)埋藏在地下$()。$(br)  如果你想挖取它，你需要拥有$(9)钻石镐或者更好的$()。 如果你有一个$(l:goldens_additions:important_items/charged_gun_powder)充能火药$()，这颗珍珠将迸发出更强的力量。"
+    }
+
+  ]
+}

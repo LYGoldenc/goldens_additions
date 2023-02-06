@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "goldens_additions:block/void_ore" }
+  }
+}

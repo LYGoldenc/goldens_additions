@@ -1,0 +1,17 @@
+{
+  "name": "末世足覆",
+  "icon": "goldens_additions:void_boots",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世足覆让你成为赛跑冠军。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_boots",
+      "title": "末世足覆",
+      "text": "    当你穿着在身上时,你永远不用再担心$(9)从高处跌落$(),你不会因此受伤,另外,你将会得到$(9)速度II$()的效果并且免疫$(3)缓慢$()效果。你可以用虚空混合物来修复任何其材质的工具与盔甲，所有的虚空混合物材质盔甲，都不会影响与猪灵的结交。"
+    }
+  ]
+}

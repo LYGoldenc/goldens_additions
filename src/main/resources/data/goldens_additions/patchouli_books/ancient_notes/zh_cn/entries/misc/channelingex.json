@@ -1,0 +1,17 @@
+{
+  "name": "超引雷",
+  "icon": "minecraft:enchanted_book",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  非常强力的魔咒。有几率通过杀死远古守卫者掉落。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:enchanted_book{Enchantments:{id:'channelingex',lvl:1}}",
+      "title": "超引雷",
+      "text": "  超引雷允许你$(3)在能看到天空$()的地方召集闪电，不论天气如何,它的原理和普通引雷不太一样,据说超引雷借助了雷公电母的力量然而引雷借助的是天气。$(br)  所以这两种魔咒不可能在同一把三叉戟上出现,另外，激流和超引雷也无法同时出现。"
+    }
+  ]
+}

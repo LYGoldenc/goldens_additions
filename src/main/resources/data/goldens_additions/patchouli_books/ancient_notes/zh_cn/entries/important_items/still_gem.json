@@ -1,0 +1,18 @@
+{
+  "name": "寂静宝石",
+  "icon": "goldens_additions:still_gem",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    你如你是$(3)猪灵$()的好朋友,她可能会低价把这个宝石卖给你。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:still_gem",
+      "title": "寂静宝石",
+      "text": "    寂静宝石拥有神奇的能力,不知可以用来制作$(l:goldens_additions:important_items/refining_void_mixture)虚空混合物$() 也可以用来$(l:goldens_additions:misc/portal_frame)开辟空间$()。你可以$(6)住在哪个地方$()。安全又舒适。"
+    }
+
+  ]
+}

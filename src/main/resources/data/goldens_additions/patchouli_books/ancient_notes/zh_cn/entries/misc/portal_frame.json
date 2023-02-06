@@ -1,0 +1,40 @@
+{
+  "name": "传送门框架",
+  "icon": "goldens_additions:portal_frame",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   充满能量的石头，你可以用它来建一座传送门。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:portal_frame",
+      "title": "传送门框架",
+      "text": "   你可以用$(l:goldens_additions:important_items/still_gem)寂静宝石$()和平滑石头来制作它,然后建一座像下界传送门一样的结构,但需要用一桶水来点亮传送门，而不是火焰。"
+    },
+    {
+      "type": "multiblock",
+      "text": "传送门基础的一种模式",
+      "name": "传送门结构",
+      "multiblock": {
+        "pattern": [
+          ["AAAA"],
+          ["A  A"],
+          ["A  A"],
+          ["A 0A"],
+          ["AAAA"]
+        ],
+        "mapping": {
+          "A": "goldens_additions:portal_frame"
+        }
+      }
+    },
+    {
+      "type": "patchouli:text",
+      "title": "寂静花园",
+      "text": "    这是一个只有动物新世界,这里并不蕴藏资源，你在地下除了石头什么也找不到,但如果你有很多机器,或者主世界的地形不适合你的庄园建设，你可以把家搬来这里，这里既舒适又安全，还能睡觉。"
+    }
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "goldens_additions:polymerizing",
+  "time": 100,
+  "inputs": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "carrier": {
+    "item": "goldens_additions:enchanted_gold_ingot"
+  },
+  "output": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}

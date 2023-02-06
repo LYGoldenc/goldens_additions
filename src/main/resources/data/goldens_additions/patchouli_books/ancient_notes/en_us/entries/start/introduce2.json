@@ -1,0 +1,24 @@
+{
+  "name": "Diary 12/2 846",
+  "sortnum": 1,
+  "icon": "goldens_additions:charged_gun_powder",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  I've been investigating that force for a long time , my $(4)mental condition was getting worse and worse$() , last night , I met a angel,He wants to make some $(9)deal$() with me . I even heard the $(4)devil laughing behind me$()..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Charged Gunpowder",
+      "item": "goldens_additions:charged_gun_powder",
+      "text": "  I think I should talk about my $(e)recent findings$() . $(br)  I've brought $(l:goldens_additions:important_items/eroded_ender_pear)that ender pearl$() back for months , It doesn't seem willing to continue to erode , I mean that force . Maybe something $(ye)has restrained its ability$() . Let me check about that."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Diary 12/2 846",
+      "text": "  If my guess is right,It should be $(l:goldens_additions:important_items/charged_gun_powder)'strange gunpowder'$() that suppressed it , I keep them close . That gunpowder is full of energy , it looked like $(4)it was going to explode$() . I don't know how it works , I got it from a $(2)dead creeper$()."
+    }
+
+  ]
+}

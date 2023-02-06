@@ -1,0 +1,19 @@
+{
+  "name": "附魔金锭",
+  "icon": "goldens_additions:enchanted_gold_ingot",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "附魔金锭",
+      "item": "goldens_additions:enchanted_gold_ingot",
+      "text": "   金光闪闪的金锭，蕴含着神奇的魔力，可以当作很多配方的催化剂。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:enchanted_gold_ingot",
+      "text": "   你可用$(e)工作台$()来制作它,如果你缺少附魔之瓶的话。你可以去附近村庄去问一下$(3)牧师$()有没有私藏。"
+    }
+
+  ]
+}

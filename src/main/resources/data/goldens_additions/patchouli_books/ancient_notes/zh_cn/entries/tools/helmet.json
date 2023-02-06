@@ -1,0 +1,17 @@
+{
+  "name": "末世王冠",
+  "icon": "goldens_additions:void_crown",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世王冠是王者的象征,戴上它的时候，你就已经是王者了。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_helmet",
+      "title": "末世王冠",
+      "text": "    当你装备它的时候,你将会获得$(9)永久夜视$()效果。另外，你将完全免疫$(3)黑暗$()和$(3)失明$()效果,当你决定到深海旅行的时候不在因$(3)缺少氧气$()而受到伤害。你可以用虚空混合物来修复任何其材质的工具与盔甲，所有的虚空混合物材质盔甲，都不会影响与猪灵的结交。"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Armors",
+  "parent": "goldens_additions:tools_and_armors",
+  "description": "In this chapter,you will know the role of these armors",
+  "icon": "goldens_additions:void_chestplate"
+}

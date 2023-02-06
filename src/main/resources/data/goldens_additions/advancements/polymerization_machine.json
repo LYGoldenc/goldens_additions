@@ -1,0 +1,37 @@
+{
+  "parent": "goldens_additions:enchanted_gold_ingot",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:polymerization_machine"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.polymerization_machine.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.polymerization_machine.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "polymerization_machine": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:polymerization_machine"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "polymerization_machine"
+    ]
+  ]
+}

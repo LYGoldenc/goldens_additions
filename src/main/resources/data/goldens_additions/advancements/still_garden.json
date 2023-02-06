@@ -1,0 +1,31 @@
+{
+  "parent": "goldens_additions:still_gem",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:portal_frame"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.still_garden.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.still_garden.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "entered_still": {
+      "conditions": {
+        "to": "goldens_additions:still_garden"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "requirements": [
+    [
+      "entered_still"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Foods",
+  "icon": "goldens_additions:super_lollipop",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": " Some interesting foods here."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:super_lollipop",
+      "title": "Super Lollipop",
+      "text": "  A very delicious snacks , and i add a gold carrot to the recipe . When eating you can get a $(9)short-lived night vision$() effect."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:iron_apple",
+      "title": "Iron Apple",
+      "text": "  It doesn't look very delicious,but the positive effect is greater than negative effect.When eating you can get $(9)Heath Boost and Huste$(),Both are very useful . But you have very small chance to get $(4)Drkness or Nausea$().Because it made of iron."
+    }
+
+  ]
+}

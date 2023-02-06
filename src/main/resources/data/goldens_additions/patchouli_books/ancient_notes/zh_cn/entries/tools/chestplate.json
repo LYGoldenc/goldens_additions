@@ -1,0 +1,23 @@
+{
+  "name": "末世胸铠",
+  "icon": "goldens_additions:void_chestplate",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世胸铠让你坚不可摧。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_chestplate",
+      "title": "末世胸铠",
+      "text": "    每当你穿着在身上时，你可以$(9)免疫所有的热源$()即使是熔岩。如果你喜欢与一些人（不一定是人）$(l:goldens_additions:misc/potion)交易你的灵魂$()。我发誓你再也不会见到恶魔。你可以用虚空混合物来修复任何其材质的工具与盔甲，所有的虚空混合物材质盔甲，都不会影响与猪灵的结交。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_chestplate_glide",
+      "title": "末世胸铠(鞘翅)",
+      "text": "    如果你得到一个鞘翅, 你可以把他装备在末世胸铠上,很简单，至于要用锻造完成，你的胸甲将获得两者的功能。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Diary 4/12 845",
+  "sortnum": 0,
+  "icon": "goldens_additions:eroded_ender_pear",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "title": "Diary 4/12 845",
+      "text": "  I have traveled all over the world,The world presents peace and beauty , Until I found a $(9)substance$() that threatened the existence of the world.$(br)  I used to think things from $(9)The End$() are the most stable product in the world.But I found ... you may not believe it ,$(l:goldens_additions:important_items/eroded_ender_pear) a eroded ender pear $(). A force of terror seems to wanna devour me when I picked it up."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Diary 4/12 845",
+      "item": "goldens_additions:eroded_ender_pear",
+      "text": "  Later, I racked my brains trying to explore this power . But there is a voice in my mind telling me: $(br)  $(#f00)DONNOT TOUCH TAHT!$() $(br)  I ignored that voice,I must find out what $(3)that power$() is."
+    }
+
+  ]
+}

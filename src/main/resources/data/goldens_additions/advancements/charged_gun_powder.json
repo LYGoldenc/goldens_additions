@@ -1,0 +1,37 @@
+{
+  "parent": "goldens_additions:root",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:charged_gun_powder"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.charged_creeper.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.charged_creeper.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "creeper": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:charged_gun_powder"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "creeper"
+    ]
+  ]
+}

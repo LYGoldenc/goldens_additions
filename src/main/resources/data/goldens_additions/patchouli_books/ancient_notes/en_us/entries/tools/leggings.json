@@ -1,0 +1,17 @@
+{
+  "name": "Void Leggings",
+  "icon": "goldens_additions:void_leggings",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void legging make you a champion in the high jump"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_leggings",
+      "title": "Void Leggings",
+      "text": "  When you wear void leggings you will have a $(9)jump boost II$() effect. And you can fix all void tools and armors by void mixture. All void armor can make piglin friendly"
+    }
+  ]
+}

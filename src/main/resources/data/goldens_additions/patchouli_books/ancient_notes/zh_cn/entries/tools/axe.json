@@ -1,0 +1,17 @@
+{
+  "name": "末世采伐者",
+  "icon": "goldens_additions:void_axe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世采伐者可以让你的伐木生涯更加迅捷。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_axe",
+      "title": "末世采伐者",
+      "text": "    它的采集效率大大超过下界合金，并且你可以用虚空混合物来修复任何其材质的工具与盔甲。"
+    }
+  ]
+}

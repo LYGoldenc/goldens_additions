@@ -1,0 +1,17 @@
+{
+  "name": "Void Axe",
+  "icon": "goldens_additions:void_axe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void Axe can let your lumbering career go fast."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_axe",
+      "title": "Void Axe",
+      "text": "  It excavation speed is much faster than netherite axe . And you can fix all void tools and armors by void mixture."
+    }
+  ]
+}

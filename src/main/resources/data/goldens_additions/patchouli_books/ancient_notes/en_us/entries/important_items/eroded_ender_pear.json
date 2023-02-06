@@ -1,0 +1,20 @@
+{
+  "name": "Eroded Ender Pear",
+  "icon": "goldens_additions:eroded_ender_pear",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "Eroded Ender Pear",
+      "item": "goldens_additions:eroded_ender_pear",
+      "text": "  Ender pearl but eroded.You can feel its power in your hand,but $(4)never try to use it.$()"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:void_ore",
+      "title": "Void Ore",
+      "text": "  You only can find this rarely in The End ,It $(9)buried underground$() .$(br)  you should mining it with $(9)diamond pickaxe or better$(). If you have a $(l:goldens_additions:important_items/charged_gun_powder)charged gunpowder$() this pearl will very useful."
+    }
+
+  ]
+}

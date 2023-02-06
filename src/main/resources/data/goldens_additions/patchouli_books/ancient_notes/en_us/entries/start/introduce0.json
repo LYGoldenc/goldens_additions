@@ -1,0 +1,18 @@
+{
+  "name": "Publisher's comments",
+  "sortnum": 0,
+  "icon": "minecraft:writable_book",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  I have never seen such a funny and absurd story.But now I'm lucky to enjoy it.The story written by the author is set in ancient times,but it uses a lot of very modern words.Maybe the author should improve his writing level,maybe that's why he refused to sign.$(br)  Whatever,it is also appreciated to be able to fabricate such absurd stories.But I haven't seen the ancient people use the word \"mental hospital\"or \"psychologist\" in the literature."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Publisher's comments",
+      "text": "  Finally, I would like to thank the anonymous contributor again,let me see such an interesting story,I agree to publish this book on behalf of Block Press."
+    }
+
+  ]
+}

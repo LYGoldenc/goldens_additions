@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "goldens_additions:eroded_ender_pear",
+    "minecraft:ender_pearl"
+  ]
+}

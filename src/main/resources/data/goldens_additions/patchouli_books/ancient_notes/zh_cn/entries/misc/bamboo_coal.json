@@ -1,0 +1,23 @@
+{
+  "name": "竹炭",
+  "icon": "goldens_additions:bamboo_coal",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:bamboo_coal",
+      "text": "   竹子常常因为他的细小而派不上什么用场。为什么不试着把它烧成竹炭呢。但单根竹子烧成竹炭燃烧的时间很短。我想可以把它们捆成一捆。当然，你也可以先把竹子捆成一捆之后再进行烧制。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:bamboo_bundle",
+      "title": "竹捆"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecraft:bamboo_coal",
+      "recipe2": "minecraft:bamboo_coal_bundle",
+      "title": "竹炭及竹炭捆"
+    }
+  ]
+}

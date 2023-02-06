@@ -1,0 +1,17 @@
+{
+  "name": "末世挖掘者",
+  "icon": "goldens_additions:void_pickaxe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世挖掘者让你的采矿事业蒸蒸日上。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_pickaxe",
+      "title": "末世挖掘者",
+      "text": "    每当你把末世挖掘者拿在右手上, 你将会根据所在位置Y值的不同获得不同等级的$(9)急迫$()效果，Y值越低等级越高，最高II级。它的采集效率比下界合金材质的要高很多并且你可以用虚空混合物来修复任何其材质的工具与盔甲。"
+    }
+  ]
+}

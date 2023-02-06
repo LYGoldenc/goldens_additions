@@ -1,0 +1,22 @@
+{
+  "name": "Untitled",
+  "sortnum": 6,
+  "icon": "minecraft:end_stone",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  I'm running out of time . $(4)I foresaw my own death$() . Everything is an $(4)illusion$() , I'm going crazy . Everything is an $(4)illusion$() , everythiong , $(4)but this notes.$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Untitled",
+      "text": "  I never thought I should be a $(4)mental patient$() . But the white wall of the $(4)mental hospital$() reminded me , everything is an $(re)illusion$(), everything is an $(4)illusion$() . But how does this explain the existence of this notebook and the wounds caused by lightning . $(9)This is a paradox$().Was struck by lightning in the room of the mental hospital ? How ridiculous."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Untitled",
+      "text": "  I sorted out these notes taken in the $(4)hallucination$() . Hallucination ? At least for now . I can't accept all this , I can't accept all this , including that I'm a patient . It should be me who should go to see Jesus now . $(br)If you see these contents , I think you should find my handwriting . $(2)Can you find the truth for me$() ? $(br)$(4)Ca dwfwa fsf feaf fawuk$() "
+    }
+  ]
+}

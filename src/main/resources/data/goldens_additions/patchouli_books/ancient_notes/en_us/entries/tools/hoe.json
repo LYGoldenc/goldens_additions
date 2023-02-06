@@ -1,0 +1,17 @@
+{
+  "name": "Void Hoe",
+  "icon": "goldens_additions:void_hoe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void Hoe can let your farming career go fast."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_hoe",
+      "title": "Void Hoe",
+      "text": "  The void hoe will $(9)never damaged$(),whatever how many times you used. And you can fix all void tools and armors by void mixture."
+    }
+  ]
+}

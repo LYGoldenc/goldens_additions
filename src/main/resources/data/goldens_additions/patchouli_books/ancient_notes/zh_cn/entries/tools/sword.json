@@ -1,0 +1,17 @@
+{
+  "name": "末世制造者",
+  "icon": "goldens_additions:void_sword",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世制造者，拿在手上，仿佛天地为之颤动，宝剑既出鞘，莫不血溅十里。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_sword",
+      "title": "末世制造者",
+      "text": "    装备末世制造者,如果你的生命值不满，你可以通过$(9)吸取$()攻击目标的血液来治疗自己,当你攻击生物的时候,能对其赋予$(3)虚弱$()的效果。你可以用虚空混合物来修复任何其材质的工具与盔甲。"
+    }
+  ]
+}

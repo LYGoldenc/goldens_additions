@@ -1,0 +1,25 @@
+{
+  "type": "goldens_additions:polymerizing",
+  "time": 600,
+  "inputs": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "goldens_additions:sculk_pearl"
+    },
+    {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    },
+    {
+      "item": "goldens_additions:still_gem"
+    }
+  ],
+  "carrier": {
+    "item": "goldens_additions:unidentified_substance"
+  },
+  "output": {
+    "item": "goldens_additions:refining_void_mixture",
+    "count": 1
+  }
+}

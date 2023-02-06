@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "goldens_additions",
+  "version": "${version}",
+  "name": "Goldens_additions",
+  "description": "Some new materials, powerful equipments, and samall things.",
+  "authors": [
+    "LY_Golden"
+  ],
+  "contact": {
+    "email": "lygolden@proton.me",
+    "homepage": "https://github.com/LYGoldenc"
+  },
+  "license": "MIT",
+  "icon": "assets/goldens_additions/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "top.goldenweb.goldens_additions.client.Goldens_additionsClient"
+    ],
+    "main": [
+      "top.goldenweb.goldens_additions.Goldens_additions"
+    ],
+    "modmenu": [
+      "top.goldenweb.goldens_additions.config.ModMenuIntegration"
+    ],
+    "rei_client": [
+      "top.goldenweb.goldens_additions.compat.REI.ModReiPlugin"
+    ]
+  },
+
+  "mixins": [
+    "goldens_additions.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12",
+    "fabric": "*",
+    "minecraft": "1.19.2",
+    "cloth-config": ">=8.0.75",
+    "geckolib3": ">=3.1.14",
+    "patchouli": "*"
+  }
+}

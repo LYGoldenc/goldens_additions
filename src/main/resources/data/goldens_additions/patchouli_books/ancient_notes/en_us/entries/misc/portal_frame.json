@@ -1,0 +1,40 @@
+{
+  "name": "Portal Frame",
+  "icon": "goldens_additions:portal_frame",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  A stone full of power. You can use it to make a portal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:portal_frame",
+      "title": "Portal Frame",
+      "text": "  You can make portal frame by $(l:goldens_additions:important_items/still_gem)still gem$() and smooth stone , then you build these portal frame like you do when you enter to nether ,but use a bucket of water to light instead of using fire "
+    },
+    {
+      "type": "multiblock",
+      "text": "This pattern is for a portal.",
+      "name": "Portal",
+      "multiblock": {
+        "pattern": [
+          ["AAAA"],
+          ["A  A"],
+          ["A  A"],
+          ["A 0A"],
+          ["AAAA"]
+        ],
+        "mapping": {
+          "A": "goldens_additions:portal_frame"
+        }
+      }
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Still Garden",
+      "text": "  This is a new world but just have animals , you cannot find any ore resouse but stone , if you have many machines , you can build a big living space there,and a big farm."
+    }
+
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Unidentified Substance",
+  "icon": "goldens_additions:unidentified_substance",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  I cannot give it any name . Because I dare not look at it directly.It seems that he will devour me in the next second."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:unidentified_substance",
+      "title": "Unidentified Substance",
+      "text": "  This is obtained by separating the $(l:goldens_additions:important_items/eroded_ender_pear)eroded ender pearl$() . $(br)  Make sure you put the eroded ender pearl in your pocket . then using $(l:goldens_additions:important_items/charged_gun_powder)charged gunpowder$() . You may separate them,And there is a small chance to obtain a complete final ender pearl."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["goldens_additions:textures/gui/patchouli/un.png"],
+      "title": "Idea Drawing",
+      "border":true
+    }
+
+  ]
+}

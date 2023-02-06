@@ -1,0 +1,20 @@
+{
+  "name": "日记 845年12月4日",
+  "sortnum": 0,
+  "icon": "goldens_additions:eroded_ender_pear",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "title": "日记 845年12月4日",
+      "text": "    我曾游历过大江南北，世界是如此的平和美好,直到有一天我发现了 $(9)一种物质$() 恐怕它的能量将威胁整个世界。$(br)   我曾经总是以为$(9)末地$()的生物或者物质是世界上结构最稳固的存在.但是我 ... 你可能不会相信，认为我在胡扯,$(l:goldens_additions:important_items/eroded_ender_pear) 一个被侵蚀的末影珍珠 $(). 当我捡起它的时候，仿佛有一股力量试图把我吞噬殆尽。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "日记 845年12月4日",
+      "item": "goldens_additions:eroded_ender_pear",
+      "text": "    之后我将尽脑汁的试图了解这股力量的源泉。但我的脑海里总会有个声音告诉我: $(br)  $(#f00)不要试图接触它$() $(br)   我根本没理会这个声音,我必须查明$(3)这股力量$()渊源。"
+    }
+
+  ]
+}

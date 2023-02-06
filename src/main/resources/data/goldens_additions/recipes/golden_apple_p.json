@@ -1,0 +1,25 @@
+{
+  "type": "goldens_additions:polymerizing",
+  "time": 200,
+  "inputs": [
+    {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    },
+    {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    },
+    {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    },
+    {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    }
+  ],
+  "carrier": {
+    "item": "minecraft:apple"
+  },
+  "output": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

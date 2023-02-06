@@ -1,0 +1,24 @@
+{
+  "name": "Potion",
+  "icon": "minecraft:potion",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Selling soul potion caould allow you to selling your soul to angel or evil.Of course, it's not up to you"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{Potion:\"goldens_additions:sellingsoul\"}",
+      "title": "Selling Soul",
+      "text": "   when you use a selling soul potion you will have two situations:$(br2)Sells to angel ,he will give you $(e)blessing$() which can make you more stronger.but the evil always stares at you.If your soul is take away by the devil,you will suffer $(4)different debuff$(),which $(re)can not clear by milk$() or other things."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{Potion:\"goldens_additions:sellingsoul\"}",
+      "title": "Selling Soul",
+      "text": "  You can use a golden apple with Awkward potion to brewing sell soul potion."
+    }
+
+  ]
+}

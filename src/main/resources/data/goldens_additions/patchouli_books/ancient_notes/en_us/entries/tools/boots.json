@@ -1,0 +1,17 @@
+{
+  "name": "Void Boots",
+  "icon": "goldens_additions:void_boots",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void boots make you the champion of the race"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_boots",
+      "title": "Void Boots",
+      "text": "  When you wear void boots ,you will never afraid of $(9)falling from height$(),You won't get hurt,additionally,you will have a $(9)spped II$() effect and immune the slowness effect. And you can fix all void tools and armors by void mixture. All void armor can make piglin friendly"
+    }
+  ]
+}

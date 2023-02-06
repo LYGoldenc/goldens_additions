@@ -1,0 +1,105 @@
+{
+  "item.goldens_additions.super_lollipop": "Super Lollipop",
+  "item.goldens_additions.bamboo_coal": "Bamboo Coal",
+  "item.goldens_additions.bamboo_bundle": "Bamboo Bundle",
+  "item.goldens_additions.bamboo_coal_bundle": "Bamboo Coal Bundle",
+  "item.goldens_additions.iron_apple": "Iron Apple",
+  "item.goldens_additions.still_gem": "Still Gem",
+  "item.goldens_additions.eroded_ender_pear": "Eroded Ender Pear",
+  "item.goldens_additions.portal_frame": "Portal Frame",
+  "item.goldens_additions.void_ore": "Void Ore",
+  "item.goldens_additions.void_crown": "Void Crown",
+  "item.goldens_additions.void_chestplate": "Void Chestplate",
+  "item.goldens_additions.void_chestplate_glide": "Void Chestplate(Elytra)",
+  "item.goldens_additions.void_leggings": "Void Leggings",
+  "item.goldens_additions.void_boots": "Void Boots",
+  "item.goldens_additions.void_sword": "Void Sword",
+  "item.goldens_additions.void_pickaxe": "Void Pickaxe",
+  "item.goldens_additions.void_axe": "Void Axe",
+  "item.goldens_additions.void_hoe": "Void Hoe",
+  "item.goldens_additions.void_shovel": "Void Shovel",
+  "item.goldens_additions.refining_void_mixture": "Void Mixture",
+  "item.minecraft.potion.effect.sellingsoul": "Selling Soul",
+  "item.minecraft.splash_potion.effect.sellingsoul": "Splash Selling Soul",
+  "item.minecraft.lingering_potion.effect.sellingsoul": "Lingering Selling Soul",
+  "item.minecraft.tipped_arrow.effect.sellingsoul": "Selling Soul Arrow",
+  "item.goldens_additions.charged_gun_powder": "Charged Gun Powder",
+  "item.goldens_additions.unidentified_substance": "Unidentified Substance",
+  "item.goldens_additions.warden_treasure_bag": "Sculk Bag",
+  "item.goldens_additions.sculk_pearl": "Sculk Pearl",
+  "item.goldens_additions.enchanted_gold_ingot": "Enchanted Eold Engot",
+  "item.goldens_additions.ancient_notes": "Ancient Notes",
+
+
+  "block.goldens_additions.void_ore": "Void Ore",
+  "block.goldens_additions.portal_frame": "Portal Frame",
+  "block.goldens_additions.polymerization_machine": "Polymerization Machine",
+
+
+  "enchantment.goldens_additions.channelingex": "Channeling EX",
+
+  "effect.goldens_additions.sell_soul_angel": "Selling Soul(Angel)",
+  "effect.goldens_additions.sell_soul_evil": "Selling Soul(Evil)",
+  "effect.goldens_additions.sell_soul": "Selling Soul",
+
+
+
+  "item.goldens_additions.iron_apple.tooltip": "It looks hard to swallow, but it emits a wonderful power.",
+  "itemGroup.goldens_additions.items": "Golden's Additions",
+
+  "text.autoconfig.goldens_additions.option.veinSize": "Vein Size",
+  "text.autoconfig.goldens_additions.option.perChunk": "Per Chunk",
+  "text.autoconfig.goldens_additions.option.height": "Height",
+  "text.autoconfig.goldens_additions.option.ElytraInArmorConsumeDurability": "Elytra In Armor Consume Durability",
+  "text.autoconfig.goldens_additions.option.timeSellingSoulEffect": "Time Selling Soul Effect",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTreasure": "Can ChannelingEX Treasure",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTrade": "Can ChannelingEX Trade",
+  "text.autoconfig.goldens_additions.option.canVoidSwordBloodSucking": "Can VoidSword BloodSucking",
+  "text.autoconfig.goldens_additions.option.bloodSuckingAmount": "BloodSucking Amount",
+  "text.autoconfig.goldens_additions.option.chargedGunPowderColldown": "Charged GunPowder Colldown",
+
+  "text.autoconfig.goldens_additions.option.veinSize.@Tooltip": "Void ore max size per vein.",
+  "text.autoconfig.goldens_additions.option.perChunk.@Tooltip": "Void ore max veins per chunk.",
+  "text.autoconfig.goldens_additions.option.height.@Tooltip": "The Height Y can void ore generated.",
+  "text.autoconfig.goldens_additions.option.ElytraInArmorConsumeDurability.@Tooltip": "If Chestplate(Elytra) consume durability when gliding likes normal elytra.",
+  "text.autoconfig.goldens_additions.option.timeSellingSoulEffect.@Tooltip": "The effect of SELLINGSOUL duration,this option changes the duration of sellingsoul to angel,while selling to evil will last for 1/3 of selling to angel.",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTreasure.@Tooltip": "Can ChannelingEX Enchantment be find as a treasure",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTrade.@Tooltip": "Can get ChannelingEX by trading with librarian.",
+  "text.autoconfig.goldens_additions.option.canVoidSwordBloodSucking.@Tooltip": "Can voidSword sucking blood.",
+  "text.autoconfig.goldens_additions.option.bloodSuckingAmount.@Tooltip": "BloodSucking Amount: the percent of attackdamage.",
+  "text.autoconfig.goldens_additions.option.chargedGunPowderColldown.@Tooltip": "Charged GunPowder Colldown.",
+
+
+
+  "text.autoconfig.goldens_additions.title":"Golden's Additions",
+  "text.autoconfig.goldens_additions.category.worldgen": "Wordgen",
+  "text.autoconfig.goldens_additions.category.misc": "Misc",
+
+
+  "goldens_additions.rei.title": "polymerizing",
+
+  "advancements.goldens_additions.root.title": "Goldens Additions",
+  "advancements.goldens_additions.root.description": "Start a mysterious journey",
+  "advancements.goldens_additions.charged_creeper.title": "POWER!",
+  "advancements.goldens_additions.charged_creeper.description": "Get a charged gun-powder by kill a creeper who struck on lightningbolt",
+  "advancements.goldens_additions.still_gem.title": "Be Quiet",
+  "advancements.goldens_additions.still_gem.description": "Get a still gem by barter with piglin",
+  "advancements.goldens_additions.warden_treasure_bag.title": "Round coal?",
+  "advancements.goldens_additions.warden_treasure_bag.description": "Kill a warden,get wondful treasures，then get a sculk pearl from that treasure bag",
+  "advancements.goldens_additions.still_garden.title": "New World",
+  "advancements.goldens_additions.still_garden.description": "Enter Still Garden",
+  "advancements.goldens_additions.enchanted_gold_ingot.title": "Glittering!",
+  "advancements.goldens_additions.enchanted_gold_ingot.description": "Get a enchanted gold ingot",
+  "advancements.goldens_additions.polymerization_machine.title": "polymerizing",
+  "advancements.goldens_additions.polymerization_machine.description": "Crafting a polymerization machine",
+  "advancements.goldens_additions.unidentified_substance.title": "What's this?",
+  "advancements.goldens_additions.unidentified_substance.description": "Get a Unidentified Substance by using the power of charged gun-powder.",
+  "advancements.goldens_additions.refining_void_mixture.title": "Terror",
+  "advancements.goldens_additions.refining_void_mixture.description": "Get a Void Mixture by polymerizing",
+  "advancements.goldens_additions.armor.title": "Odds Against Tomorrow!",
+  "advancements.goldens_additions.armor.description": "Get all Void armors",
+  "advancements.goldens_additions.tools.title": "Indestructible!",
+  "advancements.goldens_additions.tools.description": "Get a tool made of void mixture",
+
+  "patchouli.landing_text": "  This is a crazy fantasy work. Although this book has no signed author, we will still publish it as a publishing house. Thank you for the anonymous contributors.$(br2)$(br2)--Block Press$(br)   1/1 2023"
+}

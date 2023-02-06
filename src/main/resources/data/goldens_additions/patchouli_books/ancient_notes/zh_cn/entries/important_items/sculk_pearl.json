@@ -1,0 +1,19 @@
+{
+  "name": "幽匿珍珠",
+  "icon": "goldens_additions:sculk_pearl",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "幽匿珍珠",
+      "item": "goldens_additions:sculk_pearl",
+      "text": "    监守者的宝物。杀了他，抢过来！"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:warden_treasure_bag",
+      "title": "幽匿宝藏",
+      "text": "    监守者总是把幽匿珍珠藏在一个袋子里。但不是所有的监守者都会这么做。如果你足够幸运，你可以从一个监守者哪里抢来不止一个珍珠。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Void Chestplate",
+  "icon": "goldens_additions:void_chestplate",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void chestplate is a indestructible chestplate."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_chestplate",
+      "title": "Void Chestplate",
+      "text": "  When you wear void chestplate you can $(9)immune damage from heat$() even magma. if you like $(l:goldens_additions:misc/potion)selling your soul$() to someone. I promise that you will never see the evil. And you can fix all void tools and armors by void mixture. All void armor can make piglin friendly"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_chestplate_glide",
+      "title": "Void Chestplate(Elytra)",
+      "text": " If you get aelytra, you can equip it on void chestplate , very easy just smithing."
+    }
+  ]
+}

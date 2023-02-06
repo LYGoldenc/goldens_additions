@@ -1,0 +1,6 @@
+{
+  "name": "工具",
+  "parent": "goldens_additions:tools_and_armors",
+  "description": "在本章节中，你将会了解下面列出的工具的详细内容。",
+  "icon": "goldens_additions:void_pickaxe"
+}

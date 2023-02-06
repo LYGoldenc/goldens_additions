@@ -1,0 +1,18 @@
+{
+  "name": "日记 847年12月3日",
+  "sortnum": 5,
+  "icon": "goldens_additions:refining_void_mixture",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    我的身体基本恢复得和以前差不多了，在我空闲的时间里我制造了一台$(l:goldens_additions:important_items/polymerization_machine)用来聚合的机器$()。 功夫不负有心人, 我最终做到了我的想法,混合物！我真是聪明，就如同这个$(l:goldens_additions:important_items/refining_void_mixture)混合物$()多么漂亮一样。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:refining_void_mixture",
+      "title": "虚空混合物",
+      "text": "    这个$(l:goldens_additions:important_items/refining_void_mixture)混合物$()的能量要比之前更加强横了不少, 当我把它拿在手上的时候,$(4)我总是不由自主的全身颤抖$()不过，我能用它来做些什么呢?如果我用它来做$(3)装备$()。是不是可以驾驭这股力量。现在我需要一些时间。"
+    }
+  ]
+}

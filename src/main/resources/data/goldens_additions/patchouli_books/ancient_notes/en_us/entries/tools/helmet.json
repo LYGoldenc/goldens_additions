@@ -1,0 +1,17 @@
+{
+  "name": "Void Crown",
+  "icon": "goldens_additions:void_crown",
+  "category": "goldens_additions:armors",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void crown is a symbol of King , When you wear it, you are already king."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_helmet",
+      "title": "Void Crown",
+      "text": "  When you wear it , you will have $(9)night vision continuously$().additionally you will never be afraid of $(3)Darkness and Blindness$(),when you travel in Ocean World you will never be hurt although there is $(3)no oxygen$() . And you can fix all void tools and armors by void mixture.All void armor can make piglin friendly."
+    }
+  ]
+}

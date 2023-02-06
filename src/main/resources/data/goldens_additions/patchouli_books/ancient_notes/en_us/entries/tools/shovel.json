@@ -1,0 +1,17 @@
+{
+  "name": "Void Shovel",
+  "icon": "goldens_additions:void_shovel",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Void Shovel can let your excavating career go fast."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_shovel",
+      "title": "Void Shovel",
+      "text": "  It excavation speed is much faster than netherite axe . And you can fix all void tools and armors by void mixture."
+    }
+  ]
+}

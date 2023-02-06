@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:experience_bottle"
+    },
+    "Q": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "QQQ",
+    "QIQ",
+    "QQQ"
+  ],
+  "result": {
+    "item": "goldens_additions:enchanted_gold_ingot"
+  }
+}

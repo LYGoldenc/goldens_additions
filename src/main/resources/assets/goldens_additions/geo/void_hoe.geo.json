@@ -1,0 +1,48 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.void_hoe",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0.2, 0],
+					"cubes": [
+						{"origin": [-1, 15.2, -3], "size": [1, 1, 2], "inflate": -0.1, "uv": [12, 14]},
+						{"origin": [-1, 15.2, 0], "size": [1, 1, 2], "uv": [13, 0]},
+						{"origin": [-2, 14.2, 1.7], "size": [3, 3, 1], "inflate": -0.3, "uv": [14, 6]},
+						{"origin": [-12.55, 11, -1], "size": [1, 1, 1], "pivot": [0, 0.2, 0], "rotation": [0, 0, 45], "uv": [14, 10]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "head",
+					"pivot": [0, 0.6, 1.5],
+					"rotation": [7, 0, 0],
+					"cubes": [
+						{"origin": [-2, 15.6, -2.5], "size": [3, 1, 2], "uv": [4, 12]},
+						{"origin": [-2, 16.19631, -2.48538], "size": [3, 1, 2], "inflate": -0.1, "pivot": [-0.1, 1.19631, 2.51462], "rotation": [7, 0, 0], "uv": [4, 9]},
+						{"origin": [-2, 16.81477, -2.23534], "size": [3, 1, 2], "inflate": -0.2, "pivot": [-0.2, 1.31477, 2.66466], "rotation": [14, 0, 0], "uv": [4, 6]}
+					]
+				},
+				{
+					"name": "shafts",
+					"pivot": [0, 0.2, 0],
+					"cubes": [
+						{"origin": [-1, 1.2, -1], "size": [1, 14, 1], "uv": [0, 0]},
+						{"origin": [-2, 14.2, -2], "size": [3, 3, 3], "inflate": -0.4, "uv": [4, 0]},
+						{"origin": [-2, 10.3, -11.85], "size": [3, 1, 1], "pivot": [0, 0.2, 0], "rotation": [-45, 0, 0], "uv": [12, 12]},
+						{"origin": [-1, 0.2, -1], "size": [1, 1, 1], "inflate": 0.2, "uv": [0, 15]}
+					]
+				}
+			]
+		}
+	]
+}

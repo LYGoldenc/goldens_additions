@@ -1,0 +1,110 @@
+{
+  "item.goldens_additions.super_lollipop": "超级棒棒糖",
+  "item.goldens_additions.bamboo_coal": "竹炭",
+  "item.goldens_additions.bamboo_bundle": "竹捆",
+  "item.goldens_additions.bamboo_coal_bundle": "竹炭捆",
+  "item.goldens_additions.iron_apple": "铁苹果",
+  "item.goldens_additions.still_gem": "寂静宝石",
+  "item.goldens_additions.eroded_ender_pear": "被侵蚀的末影珍珠",
+  "item.goldens_additions.portal_frame": "传送门框架",
+  "item.goldens_additions.void_ore": "虚空矿石",
+  "item.goldens_additions.refining_void_mixture": "虚空混合物",
+  "item.goldens_additions.void_crown": "末世王冠",
+  "item.goldens_additions.void_chestplate": "末世胸铠",
+  "item.goldens_additions.void_chestplate_glide": "末世胸凯(鞘翅)",
+  "item.goldens_additions.void_leggings": "末世腿铠",
+  "item.goldens_additions.void_boots": "末世足覆",
+  "item.goldens_additions.void_sword": "末世制造者",
+  "item.goldens_additions.void_pickaxe": "末世挖掘者",
+  "item.goldens_additions.void_axe": "末世采伐者",
+  "item.goldens_additions.void_hoe": "末世开垦者",
+  "item.goldens_additions.void_shovel": "末世掘墓者",
+  "item.minecraft.potion.effect.sellingsoul": "出卖灵魂药水",
+  "item.minecraft.splash_potion.effect.sellingsoul": "喷溅瓶出卖灵魂药水",
+  "item.minecraft.lingering_potion.effect.sellingsoul": "滞留瓶出卖灵魂药水",
+  "item.minecraft.tipped_arrow.effect.sellingsoul": "出卖灵魂之箭",
+  "item.goldens_additions.charged_gun_powder": "充能火药",
+  "item.goldens_additions.unidentified_substance": "不明物质",
+  "item.goldens_additions.warden_treasure_bag": "幽匿宝藏",
+  "item.goldens_additions.sculk_pearl": "幽匿珍珠",
+  "item.goldens_additions.enchanted_gold_ingot": "附魔金锭",
+  "item.goldens_additions.ancient_notes": "古代手记",
+
+
+
+  "block.goldens_additions.void_ore": "虚空矿石",
+  "block.goldens_additions.portal_frame": "传送门框架",
+  "block.goldens_additions.polymerization_machine": "聚合装置",
+
+
+
+  "enchantment.goldens_additions.channelingex": "超引雷",
+
+
+  "effect.goldens_additions.sell_soul_angel": "出卖灵魂(天使)",
+  "effect.goldens_additions.sell_soul_evil": "出卖灵魂(恶魔)",
+  "effect.goldens_additions.sell_soul": "出卖灵魂",
+
+
+
+  "item.goldens_additions.iron_apple.tooltip": "古人云：良药苦口。",
+  "itemGroup.goldens_additions.items": "狗蛋的额外内容",
+
+  "text.autoconfig.goldens_additions.option.veinSize": "矿脉大小",
+  "text.autoconfig.goldens_additions.option.perChunk": "每区块矿脉",
+  "text.autoconfig.goldens_additions.option.height": "最大生成高度",
+  "text.autoconfig.goldens_additions.option.ElytraInArmorConsumeDurability": "鞘翅胸甲滑翔是否消耗耐久度",
+  "text.autoconfig.goldens_additions.option.timeSellingSoulEffect": "出卖灵魂效果持续时间",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTreasure": "超引雷附魔书是否作为宝藏附魔",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTrade": "超引雷附魔书是否可以通过图书管理员交易获得",
+  "text.autoconfig.goldens_additions.option.canVoidSwordBloodSucking": "启动末世制造者的吸血功能",
+  "text.autoconfig.goldens_additions.option.bloodSuckingAmount": "吸血的数值",
+  "text.autoconfig.goldens_additions.option.chargedGunPowderColldown": "充能火药的冷却时间",
+
+  "text.autoconfig.goldens_additions.option.veinSize.@Tooltip": "虚空矿石每个矿脉的矿石生成量。",
+  "text.autoconfig.goldens_additions.option.perChunk.@Tooltip": "虚空矿石每区块生成矿脉数量。",
+  "text.autoconfig.goldens_additions.option.height.@Tooltip": "虚空矿石最高可以生成的Y值。",
+  "text.autoconfig.goldens_additions.option.ElytraInArmorConsumeDurability.@Tooltip": "末世胸凯(鞘翅)滑翔是否消耗耐久度。",
+  "text.autoconfig.goldens_additions.option.timeSellingSoulEffect.@Tooltip": "出卖灵魂效果持续时间，该处设置为与天使交易的时间，与恶魔交易的时间默认为天使的三分之一。",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTreasure.@Tooltip": "超引雷附魔书是否作为宝藏生成。",
+  "text.autoconfig.goldens_additions.option.canChannelingEXTrade.@Tooltip": "超引雷附魔书是否可以通过图书管理员交易获得。",
+  "text.autoconfig.goldens_additions.option.canVoidSwordBloodSucking.@Tooltip": "末世制造者能否吸血。",
+  "text.autoconfig.goldens_additions.option.bloodSuckingAmount.@Tooltip": "吸血量: 武器攻击力的百分比。",
+  "text.autoconfig.goldens_additions.option.chargedGunPowderColldown.@Tooltip": "充能火药的冷却时间。",
+
+
+  "text.autoconfig.goldens_additions.title":"狗蛋的额外内容",
+  "text.autoconfig.goldens_additions.category.worldgen": "生成",
+  "text.autoconfig.goldens_additions.category.misc": "杂项",
+
+
+  "goldens_additions.rei.title": "聚合",
+
+  "advancements.goldens_additions.root.title": "狗蛋的额外扩展",
+  "advancements.goldens_additions.root.description": "开启一段奇妙的旅程",
+  "advancements.goldens_additions.charged_creeper.title": "能量要溢出来了！",
+  "advancements.goldens_additions.charged_creeper.description": "通过击杀闪电苦力怕获得一个充能火药",
+  "advancements.goldens_additions.still_gem.title": "请安静",
+  "advancements.goldens_additions.still_gem.description": "通过与猪灵以物易物获得一颗寂静宝石",
+  "advancements.goldens_additions.warden_treasure_bag.title": "圆形煤炭？",
+  "advancements.goldens_additions.warden_treasure_bag.description": "杀死监守者，获得他的宝藏袋，打开宝藏袋获得幽匿珍珠（不可以烧东西！）。",
+  "advancements.goldens_additions.still_garden.title": "新世界",
+  "advancements.goldens_additions.still_garden.description": "进入寂静花园",
+  "advancements.goldens_additions.polymerization_machine.title": "聚合！",
+  "advancements.goldens_additions.polymerization_machine.description": "制作一台聚合装置",
+  "advancements.goldens_additions.enchanted_gold_ingot.title": "金光闪闪",
+  "advancements.goldens_additions.enchanted_gold_ingot.description": "获得一块附魔金锭",
+  "advancements.goldens_additions.unidentified_substance.title": "这是什么？",
+  "advancements.goldens_additions.unidentified_substance.description": "通过充能火药的力量获得一个不明物质",
+  "advancements.goldens_additions.refining_void_mixture.title": "恐怖气息",
+  "advancements.goldens_additions.refining_void_mixture.description": "通过聚合获得虚空混合物",
+  "advancements.goldens_additions.armor.title": "末日将至！",
+  "advancements.goldens_additions.armor.description": "获得全套虚空混合物制造的铠甲",
+  "advancements.goldens_additions.tools.title": "无坚不摧",
+  "advancements.goldens_additions.tools.description": "获得一把虚空混合物制作的工具或武器",
+
+
+  "patchouli.landing_text": "  这是一个神奇的故事。尽管这本书的作者没有署名,作为一个出版社我们仍将出版此书。向匿名投稿者致谢$(br2)$(br2)               --方块出版社$(br)                    1/1 2023"
+
+
+}

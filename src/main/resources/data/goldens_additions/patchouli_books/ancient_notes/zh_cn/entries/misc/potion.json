@@ -1,0 +1,24 @@
+{
+  "name": "药水",
+  "icon": "minecraft:potion",
+  "category": "goldens_additions:misc",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "   出卖灵魂药水允许你与恶魔或者天使交易你的灵魂。选择谁呢？当然，这由不得你。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{Potion:\"goldens_additions:sellingsoul\"}",
+      "title": "出卖灵魂",
+      "text": "   每当你使用出卖灵魂药水，你将面临两个处境:$(br2)    交易给天使,他将会赋予你$(e)祝福$()是你变得更加强大。但恶魔一直在暗处盯着你，如果你的灵魂不小心被恶魔带走,你将会遭受数种$(4)不同的负面效果$(),恶魔不喜欢交易被打断，因此在交易期间，你$(4)无法清除$()你身上的任何效果，即使不属于交易内容。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{Potion:\"goldens_additions:sellingsoul\"}",
+      "title": "出卖灵魂",
+      "text": "  你可以使用附魔金苹果配合粗制的药水来酿造出卖灵魂药水。"
+    }
+
+  ]
+}

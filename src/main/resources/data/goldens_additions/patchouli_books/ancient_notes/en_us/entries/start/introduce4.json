@@ -1,0 +1,18 @@
+{
+  "name": "Diary 14/9 846",
+  "sortnum": 3,
+  "icon": "goldens_additions:sculk_pearl",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  Things are starting to get a bit more weird . I met a $(4)legendary creature$() : $(9)Warden$() when I was mining. "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:sculk_pearl",
+      "title": "Sculk Pearl",
+      "text": "  Fortunately , I sent him to see Jesus with my smart brain , I found a bag from him taht has a $(l:goldens_additions:important_items/sculk_pearl)smooth pearl$() inside . I don't know what it does.Forget it , I should have a good sleep now."
+    }
+  ]
+}

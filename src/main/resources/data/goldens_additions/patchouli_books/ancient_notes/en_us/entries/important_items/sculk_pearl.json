@@ -1,0 +1,19 @@
+{
+  "name": "Sculk Pearl",
+  "icon": "goldens_additions:sculk_pearl",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "Sculk Pearl",
+      "item": "goldens_additions:sculk_pearl",
+      "text": "  The treasure of Warden. kill him and grab it."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:warden_treasure_bag",
+      "title": "Treasure Bag",
+      "text": "  Warden always hidden it in a bag.But not all.If you're lucky enough,you will easily get this."
+    }
+  ]
+}

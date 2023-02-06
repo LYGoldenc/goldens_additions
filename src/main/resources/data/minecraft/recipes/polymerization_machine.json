@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "Q": {
+      "item": "goldens_additions:enchanted_gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:ancient_debris"
+    },
+    "Y": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "pattern": [
+    " Q ",
+    "YBY",
+    "IWI"
+  ],
+  "result": {
+    "item": "goldens_additions:polymerization_machine"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "末世开垦者",
+  "icon": "goldens_additions:void_hoe",
+  "category": "goldens_additions:tools",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    末世开垦者让你的农场生涯锦上添花。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "minecraft:void_hoe",
+      "title": "末世开垦者",
+      "text": "    末世开垦者永远不会$(9)损坏$(),无论你用了多久时间。"
+    }
+  ]
+}

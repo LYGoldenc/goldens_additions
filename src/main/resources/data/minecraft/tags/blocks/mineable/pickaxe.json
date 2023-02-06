@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "goldens_additions:portal_frame",
+    "goldens_additions:polymerization_machine",
+    "goldens_additions:void_ore"
+
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "盔甲",
+  "parent": "goldens_additions:tools_and_armors",
+  "description": "在本章节中，你将会了解下面列出的盔甲的详细内容。",
+  "icon": "goldens_additions:void_chestplate"
+}

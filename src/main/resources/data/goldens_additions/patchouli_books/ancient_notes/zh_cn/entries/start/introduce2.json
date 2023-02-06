@@ -1,0 +1,24 @@
+{
+  "name": "日记 846年2月12日",
+  "sortnum": 1,
+  "icon": "goldens_additions:charged_gun_powder",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    我已经调查这股力量许久了 , 但不知为何，$(4)我的精神状况开始越来越糟糕$() , 昨天晚上 ,我竟然看到一个天使，他在试图与我$(9)交易$()什么东西，但我无法理解他的语言。我甚至听到了$(4)恶魔在我背后哂笑的声音$()..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "充能火药",
+      "item": "goldens_additions:charged_gun_powder",
+      "text": "    该说说我$(e)最近的发现$()了。$(br)   我把$(l:goldens_additions:important_items/eroded_ender_pear)这颗末影珍珠$()带回来几个月了,他好像没有意愿继续侵蚀, 当然，我指的是那股力量。 也许有什么东西遏制住了它的力量。让我想想..."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "充能火药",
+      "text": "    如果我想的没错，也许是这摊$(l:goldens_additions:important_items/charged_gun_powder)'奇怪的火药'$()发挥的作用, 我把它们放的很近 。这团火药充斥着暴戾的能量, 好像随时都要$(4)炸掉$()一样。我不懂它的原理, 我只记得我是从一只$(2)死去的苦力怕$()身边捡到的。"
+    }
+
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "goldens_additions:still_gem"
+    },
+    "Q": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    "QQQ",
+    "QIQ",
+    "QQQ"
+  ],
+  "result": {
+    "item": "goldens_additions:portal_frame",
+    "count": 8
+  }
+}

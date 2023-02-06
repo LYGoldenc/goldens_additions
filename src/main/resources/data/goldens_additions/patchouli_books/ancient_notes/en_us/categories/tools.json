@@ -1,0 +1,6 @@
+{
+  "name": "Tools",
+  "parent": "goldens_additions:tools_and_armors",
+  "description": "In this chapter,you will know the role of these tools",
+  "icon": "goldens_additions:void_pickaxe"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Void Mixture",
+  "icon": "goldens_additions:refining_void_mixture",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "Void Mixture",
+      "item": "goldens_additions:refining_void_mixture",
+      "text": "  I will name him Void mixture.An upgraded version of that force."
+    },
+    {
+      "type"  : "goldens_additions:precipe",
+      "recipe": "goldens_additions:refining_void_mixture",
+      "text": "  Using $(l:goldens_additions:important_items/polymerization_machine)polymerization machine$() to make this . You will need many different materials . Donnot warry ,you will forget that when you control that wondful power."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "日记 847年9月20日",
+  "sortnum": 4,
+  "icon": "goldens_additions:unidentified_substance",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "     一年过去了,我真希望我的遭遇是一场梦。现在，我受了重伤瘫痪在床上。你可能永远不会知道被$(9)闪电击中$()的感觉。是那股力量救了我, 我非常感谢$(l:goldens_additions:important_items/refining_void_mixture)这股强大的力量$()救了我。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:unidentified_substance",
+      "title": "不明物质",
+      "text": "    但奇怪的是我带在身上的$(l:goldens_additions:important_items/charged_gun_powder)那摊火药$()不见了, 奇怪的火药奇怪地消失了。更奇怪的是$(l:goldens_additions:important_items/refining_void_mixture)那股力量$()被闪电单独分离出来了。现在，我有个疯狂的想法, $(3)我想要吧那股力量混合在其他的强力物件上$()，不过目前还是要静养身体..."
+    }
+  ]
+}

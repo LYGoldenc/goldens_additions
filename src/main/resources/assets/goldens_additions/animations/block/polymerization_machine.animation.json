@@ -1,0 +1,32 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"polymerization_machine_a.model.new": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"an": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 45, 45]
+						},
+						"1.0": {
+							"vector": [0, 90, 45]
+						},
+						"1.5": {
+							"vector": [0, 135, 90]
+						},
+						"2.0": {
+							"vector": [0, 180, 90],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

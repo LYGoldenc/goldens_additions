@@ -1,0 +1,24 @@
+{
+  "name": "日记 846年6月1日",
+  "sortnum": 2,
+  "icon": "goldens_additions:still_gem",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "    $(4)我的脑子越来越糟了$() . 我经常因为失控胡乱讲话导致我的狗狂吠。但这都不是大问题.我找到了一个$(3)宝贝$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "寂静宝石",
+      "item": "goldens_additions:still_gem",
+      "text": "    我认为$(3)猪灵$()有时候也是很友好的。瞧瞧! 多么一颗$(l:goldens_additions:important_items/still_gem)无暇的宝石$()。我用了5个金锭就将他换来了,猪灵真是有眼无珠。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "寂静宝石",
+      "text": "    这颗宝石似乎有着$(2)开天辟地$()的本事。我一直把它带在身上,有次我在睡梦中，我看到了一个广阔无垠的世界，我觉得这是某种预示。$(br)     实在抱歉，我可能又在说胡话了,自从我找到了“那股力量”,我的精神情况就开始变得很糟糕, 我觉得是时候找个$(4)心理医生$()看看了。"
+    }
+
+  ]
+}

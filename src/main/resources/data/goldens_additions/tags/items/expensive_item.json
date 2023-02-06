@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "goldens_additions:sculk_pearl",
+    "goldens_additions:charged_gun_powder",
+    "goldens_additions:refining_void_mixture",
+    "goldens_additions:still_gem",
+    "goldens_additions:unidentified_substance",
+    "goldens_additions:enchanted_gold_ingot"
+  ]
+}

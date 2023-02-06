@@ -1,0 +1,19 @@
+{
+  "name": "Enchanted Gold Ingot",
+  "icon": "goldens_additions:enchanted_gold_ingot",
+  "category": "goldens_additions:important_items",
+  "pages":[
+    {
+      "type": "patchouli:spotlight",
+      "title": "Enchanted Gold Ingot",
+      "item": "goldens_additions:enchanted_gold_ingot",
+      "text": "  Shining gold ingot,It contains magic power."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:enchanted_gold_ingot",
+      "text": "  You can craft this by $(e)crafting table$() , if If you lack the experience bottle . You can go to the place where have a $(3)priest$() and have a look."
+    }
+
+  ]
+}

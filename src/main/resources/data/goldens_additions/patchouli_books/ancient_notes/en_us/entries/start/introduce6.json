@@ -1,0 +1,18 @@
+{
+  "name": "Diary 3/12 847",
+  "sortnum": 5,
+  "icon": "goldens_additions:refining_void_mixture",
+  "category": "goldens_additions:start",
+  "pages":[
+    {
+      "type": "patchouli:text",
+      "text": "  My body is miraculously recovering , and now it is almost the same as before . In my spare time I developed a $(l:goldens_additions:important_items/polymerization_machine)machine for polymerizing$() . Finally , I did it , How smart I am.How beautiful this $(l:goldens_additions:important_items/refining_void_mixture)mixture$() is."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "goldens_additions:refining_void_mixture",
+      "title": "Void Mixture",
+      "text": "  This $(l:goldens_additions:important_items/refining_void_mixture)mixture$() is more powerful than before , When I hold it in my hand ,$(4) I can't help shaking$() . What can I do with it ? If I use it to make $(3)tools and armor$() . Is it possible to control this power . I need some time."
+    }
+  ]
+}

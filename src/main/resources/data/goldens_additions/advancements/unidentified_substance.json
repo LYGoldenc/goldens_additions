@@ -1,0 +1,37 @@
+{
+  "parent": "goldens_additions:charged_gun_powder",
+  "display": {
+    "icon": {
+      "item": "goldens_additions:unidentified_substance"
+    },
+    "title": {
+      "translate": "advancements.goldens_additions.unidentified_substance.title"
+    },
+    "description": {
+      "translate": "advancements.goldens_additions.unidentified_substance.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unidentified_substance": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goldens_additions:unidentified_substance"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "unidentified_substance"
+    ]
+  ]
+}
